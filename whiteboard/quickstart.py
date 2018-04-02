@@ -76,7 +76,7 @@ def main():
             # Print columns A and E, which correspond to indices 0 and 4.
             print('%s, %s' % (row[0], row[4]))
 
-        
+        print('i want to put this outside the loop')
 
 
 if __name__ == '__main__':
